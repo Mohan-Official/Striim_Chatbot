@@ -19,7 +19,7 @@ const Navbar = () => {
         boxShadow: 'none',
         minHeight: '35px', // Set outer navbar height
         height: '35px',
-        marginTop:'-5%',
+        // marginTop:'-5%',
         '& .MuiToolbar-root':
         {
           minHeight: 0
