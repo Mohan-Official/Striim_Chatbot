@@ -20,9 +20,9 @@ export default function Maincontainer() {
 
   return (
     <ContainerBox>
-      <Box sx={{position:'relative',zIndex:'10',left:'50%',top:'-20%',right:'-40%',transform:'rotate(45deg)'}}>
+      {/* <Box sx={{position:'relative',zIndex:'10',left:'50%',top:'-20%',right:'-40%',transform:'rotate(45deg)'}}>
         <Gradientbackground />
-      </Box>
+      </Box> */}
       <Navbar />
       <Textfile />
       <Cards />
